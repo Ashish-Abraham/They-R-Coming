@@ -30,3 +30,6 @@ class Ship():
         # Update rect object from self.center.
         self.rect.centerx = self.center        
     
+    #position new ship
+    def center_ship(self):
+        self.center=self.screen_rect.centerx

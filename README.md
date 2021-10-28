@@ -2,7 +2,7 @@
 An classic, 2-D, alien invasion and shooting game using Pygame library of Python.
 
 ## Game Features
-![Image](https://github.com/Ashish-Abraham/Heart-Failure-Prediction-Analysis/blob/main/model/Model_accuracy.png)
+![Image](https://github.com/Ashish-Abraham/They-R-Coming/blob/main/images/1.png)
 * 3 lives per game
 * Scoreboard
 * Fun to play 😊
@@ -21,10 +21,9 @@ An classic, 2-D, alien invasion and shooting game using Pygame library of Python
 $ sudo apt-get install python-pygame
 ```
 ```sh
-$ git clone https://github.com/tasdikrahman/spaceShooter.git
-$ cd spaceShooter/
-$ chmod +x spaceShooter.py
-$ python spaceShooter.py
+$ git clone https://github.com/Ashish-Abraham/They-R-Coming
+$ cd They-R-Coming/
+$ python alien_invasion.py
 ```
 
 ## *Thanks for reading the Documentation. Open to suggestions if any.*
